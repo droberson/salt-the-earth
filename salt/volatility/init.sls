@@ -1,0 +1,3 @@
+volatility:
+  pkg.installed
+

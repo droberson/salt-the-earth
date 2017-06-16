@@ -1,0 +1,3 @@
+gnupg:
+  pkg.installed
+

@@ -1,0 +1,3 @@
+binwalk:
+  pkg.installed
+

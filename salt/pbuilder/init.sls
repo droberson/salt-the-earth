@@ -1,0 +1,3 @@
+pbuilder:
+  pkg.installed
+

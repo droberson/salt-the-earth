@@ -1,0 +1,3 @@
+apt-file:
+  pkg.installed
+

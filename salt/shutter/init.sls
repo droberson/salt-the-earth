@@ -1,0 +1,3 @@
+shutter:
+  pkg.installed
+

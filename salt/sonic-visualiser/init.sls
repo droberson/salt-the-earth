@@ -1,0 +1,3 @@
+sonic-visualiser:
+  pkg.installed
+

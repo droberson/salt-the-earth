@@ -1,0 +1,3 @@
+dput:
+  pkg.installed
+

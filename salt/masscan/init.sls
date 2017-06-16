@@ -1,0 +1,3 @@
+masscan:
+  pkg.installed
+

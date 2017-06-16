@@ -1,0 +1,3 @@
+netcat-traditional:
+  pkg.installed
+

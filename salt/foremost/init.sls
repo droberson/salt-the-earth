@@ -1,0 +1,3 @@
+foremost:
+  pkg.installed
+

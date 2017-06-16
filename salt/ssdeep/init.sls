@@ -1,0 +1,3 @@
+ssdeep:
+  pkg.installed
+

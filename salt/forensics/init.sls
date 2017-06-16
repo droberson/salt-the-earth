@@ -1,0 +1,5 @@
+include:
+  - binwalk
+  - volatility
+  - foremost
+

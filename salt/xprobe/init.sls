@@ -1,0 +1,3 @@
+xprobe:
+  pkg.installed
+

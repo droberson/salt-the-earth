@@ -1,0 +1,3 @@
+nikto:
+  pkg.installed
+

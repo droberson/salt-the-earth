@@ -1,0 +1,3 @@
+exuberant-ctags:
+  pkg.installed
+

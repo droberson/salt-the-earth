@@ -1,0 +1,3 @@
+aplay:
+  pkg.installed
+

@@ -1,0 +1,3 @@
+sshuttle:
+  pkg.installed
+

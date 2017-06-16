@@ -1,0 +1,3 @@
+cewl:
+  pkg.installed
+

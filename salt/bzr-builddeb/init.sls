@@ -1,0 +1,3 @@
+bzr-builddeb:
+  pkg.installed
+
