@@ -1,0 +1,3 @@
+yersinia:
+  pkg.installed
+
