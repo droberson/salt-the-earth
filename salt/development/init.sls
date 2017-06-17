@@ -10,6 +10,7 @@ include:
   - packaging-dev
   - pbuilder
   - pylint
+  - python-paramiko
   - shellcheck
   - ubuntu-dev-tools
   - valgrind
