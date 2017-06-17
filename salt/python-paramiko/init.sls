@@ -1,0 +1,2 @@
+python-paramiko:
+  pkg.installed
