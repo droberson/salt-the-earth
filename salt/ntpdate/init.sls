@@ -1,0 +1,2 @@
+ntpdate:
+  pkg.installed
