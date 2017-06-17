@@ -1,19 +1,19 @@
 include:
-  - wireshark
+  - dsniff
+  - geoip
+  - hping3
+  - hydra
+  - masscan
+  - netcat
+  - nmap
+  - onesixtyone
+  - openvpn
+  - p0f
+  - quagga
   - snmp
   - sshuttle
-  - openvpn
-  - geoip
-  - hydra
-  - nmap
-  - hping3
-  - netcat
-  - xprobe
-  - p0f
-  - masscan
-  - dsniff
-  - quagga
   - whois
-  - onesixtyone
+  - wireshark
+  - xprobe
   - yersinia
 
