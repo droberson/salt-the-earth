@@ -1,3 +1,3 @@
-aplay:
+alsa-utils:
   pkg.installed
 
