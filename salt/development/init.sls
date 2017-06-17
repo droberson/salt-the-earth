@@ -1,7 +1,9 @@
 include:
   - apt-file
+  - emacs
   - exuberant-ctags
   - shellcheck
+  - gdb
   - git
   - pbuilder
   - dput
