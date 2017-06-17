@@ -6,6 +6,7 @@ include:
   - masscan
   - netcat
   - nmap
+  - ntpdate
   - onesixtyone
   - openvpn
   - p0f
