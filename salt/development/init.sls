@@ -11,6 +11,7 @@ include:
   - pbuilder
   - pylint
   - python-paramiko
+  - python-subprocess32
   - shellcheck
   - ubuntu-dev-tools
   - valgrind
