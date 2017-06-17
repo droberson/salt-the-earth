@@ -12,4 +12,5 @@ include:
   - build-essential
   - ubuntu-dev-tools
   - pylint
+  - valgrind
 
