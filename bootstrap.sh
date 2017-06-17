@@ -28,7 +28,7 @@ fi
 
 # Upgrade current packages
 echo "[+] Upgrading current installed packages."
-apt upgrade -y
+apt upgrade --yes
 if [ $? != 0 ]; then
 	echo "[-] apt upgrade failed."
 	echo "[-] Exiting."
@@ -37,7 +37,7 @@ fi
 
 # install salt-minion
 echo "[+] Installing salt-minion"
-apt install salt-minion
+apt install salt-minion --yes
 if [ $? != 0 ]; then
 	echo "[-] apt install salt-minion failed."
 	echo "[-] Exiting."
