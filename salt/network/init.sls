@@ -15,4 +15,5 @@ include:
   - quagga
   - whois
   - onesixtyone
+  - yersinia
 
