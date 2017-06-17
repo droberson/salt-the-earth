@@ -1,6 +1,6 @@
 include:
   - audacity
   - mpg123
-  - aplay
+  - alsa-utils
   - sonic-visualiser
 
