@@ -8,4 +8,5 @@
 {% if vars.useradio == True %}
 include:
   - chirp
+  - minimodem
 {% endif %}

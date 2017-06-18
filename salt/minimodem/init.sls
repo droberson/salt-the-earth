@@ -1,0 +1,2 @@
+minimodem:
+  pkg.installed
