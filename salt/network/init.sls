@@ -6,6 +6,7 @@ include:
   - ipcalc
   - masscan
   - minicom
+  - mysql-client
   - netcat
   - nmap
   - ntpdate
