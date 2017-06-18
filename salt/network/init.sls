@@ -3,6 +3,7 @@ include:
   - geoip
   - hping3
   - hydra
+  - ipcalc
   - masscan
   - minicom
   - netcat
