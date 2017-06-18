@@ -1,3 +1,5 @@
+{%- from "vars.jinja" import vars with context %}
+
 emacs-ppa:
   pkgrepo.managed:
     - humanname: Emacs Daily Snapshot PPA
@@ -9,9 +11,14 @@ emacs-ppa:
 
 emacs-pkg:
   pkg.latest:
-    - name: emacs
+    {% if vars.usegui == True %}
+    - name: emacs24
+    {% else %}
+    - name: emacs24-nox
+    {% endif  %}
     - refresh: True
     - require:
       - pkgrepo: emacs-ppa
 
-
+mg:
+  pkg.installed
