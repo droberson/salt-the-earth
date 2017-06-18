@@ -8,3 +8,19 @@ besides Ubuntu.
 
 Currently, this is not anywhere close to being complete or optimal,
 because I am using this project to learn SaltStack.
+
+## Getting Started
+
+Currently, this isn't very mature, but the process for getting this
+working is as follows:
+
+- Edit salt/vars.jinja to taste. This is just setting variables True or
+  False.
+
+- Run bootstrap.sh as root:
+
+  $ sudo ./bootstrap.sh
+
+- Wait for everything to install.
+
+- That's it!
