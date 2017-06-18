@@ -14,6 +14,7 @@ include:
   - p0f
   - quagga
   - snmp
+  - smbclient
   - sshuttle
   - thc-ipv6
   - whois
