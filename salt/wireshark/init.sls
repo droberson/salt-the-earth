@@ -1,3 +1,5 @@
+{%- from "vars.jinja" import vars with context %}
+
 wireshark-ppa:
   pkgrepo.managed:
     - humanname: Wireshark Dev PPA
@@ -7,12 +9,14 @@ wireshark-ppa:
     - keyid: 14ECA0F0
     - keyserver: keyserver.ubuntu.com
 
+{% if vars.usegui == True %}
 wireshark-pkg:
   pkg.latest:
     - name: wireshark
     - refresh: True
     - require:
       - pkgrepo: wireshark-ppa
+{% endif %}
 
 tshark-pkg:
   pkg.latest:
