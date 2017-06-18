@@ -3,4 +3,4 @@
 {% if vars.usegui == True %}
 sonic-visualiser:
   pkg.installed
-{% endif}
+{% endif %}
