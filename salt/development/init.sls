@@ -7,6 +7,7 @@ include:
   - exuberant-ctags
   - gdb
   - git
+  - nasm
   - packaging-dev
   - pbuilder
   - pylint
