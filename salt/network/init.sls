@@ -4,6 +4,7 @@ include:
   - hping3
   - hydra
   - masscan
+  - minicom
   - netcat
   - nmap
   - ntpdate
