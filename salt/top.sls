@@ -7,4 +7,5 @@ base:
     - latex
     - network
     - productivity
+    - radio
     - web
