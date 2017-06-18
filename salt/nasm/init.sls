@@ -1,0 +1,2 @@
+nasm:
+  pkg.installed
