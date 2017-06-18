@@ -13,6 +13,7 @@ include:
   - quagga
   - snmp
   - sshuttle
+  - thc-ipv6
   - whois
   - wireshark
   - xprobe
