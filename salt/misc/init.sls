@@ -1,0 +1,2 @@
+include:
+  - xclip
