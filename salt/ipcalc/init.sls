@@ -1,0 +1,2 @@
+ipcalc:
+  pkg.installed
