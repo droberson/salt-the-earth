@@ -1,0 +1,2 @@
+smbclient:
+  pkg.installed
