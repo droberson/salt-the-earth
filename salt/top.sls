@@ -1,9 +1,10 @@
 base:
   '*':
-    - network
-    - web
-    - development
-    - crypto
-    - forensics
-    - productivity
     - audio
+    - crypto
+    - development
+    - forensics
+    - latex
+    - network
+    - productivity
+    - web
