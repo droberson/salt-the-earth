@@ -8,6 +8,7 @@ base:
     - latex
     - misc
     - network
+    - office
     - productivity
     - radio
     - web
