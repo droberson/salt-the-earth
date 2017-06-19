@@ -1,4 +1,5 @@
 include:
+  - afl
   - apt-file
   - build-essential
   - bzr-builddeb

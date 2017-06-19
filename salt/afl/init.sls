@@ -1,0 +1,3 @@
+afl:
+  pkg.installed
+
