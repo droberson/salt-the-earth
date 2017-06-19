@@ -1,0 +1,3 @@
+newsbeuter:
+  pkg.installed
+

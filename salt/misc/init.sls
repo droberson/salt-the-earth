@@ -1,4 +1,5 @@
 include:
+  - newsbeuter
   - xclip
   - zsh
 
