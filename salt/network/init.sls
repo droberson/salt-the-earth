@@ -1,4 +1,5 @@
 include:
+  - arping
   - dsniff
   - geoip
   - hping3

@@ -1,0 +1,3 @@
+arping:
+  pkg.installed
+
