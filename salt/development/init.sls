@@ -1,6 +1,7 @@
 include:
   - afl
   - apt-file
+  - augeas
   - build-essential
   - bzr-builddeb
   - dput
