@@ -1,2 +1,4 @@
 include:
   - xclip
+  - zsh
+
