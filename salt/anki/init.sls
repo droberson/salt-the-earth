@@ -1,0 +1,3 @@
+anki:
+  pkg.installed
+
