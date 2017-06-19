@@ -3,5 +3,6 @@
 {% if vars.useoffice == True %}
 include:
   - anki
+  - libreoffice
 {% endif %}
 
