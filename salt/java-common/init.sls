@@ -1,0 +1,3 @@
+java-common:
+  pkg.installed
+

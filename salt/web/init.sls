@@ -1,4 +1,5 @@
 include:
+  - burp
   - nikto
   - wget
   - curl
