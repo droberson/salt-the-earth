@@ -16,6 +16,7 @@ include:
   - openvpn
   - p0f
   - quagga
+  - remmina
   - snmp
   - smbclient
   - sshuttle
