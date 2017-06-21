@@ -15,6 +15,7 @@ include:
   - onesixtyone
   - openvpn
   - p0f
+  - proxychains
   - quagga
   - remmina
   - snmp

@@ -1,0 +1,3 @@
+proxychains:
+  pkg.installed
+
