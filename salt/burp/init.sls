@@ -7,6 +7,7 @@ burp:
     - creates: /usr/local/bin/burpsuite_free.jar
     - require:
       - pkg: java-common
+
   file.managed:
     - name: /usr/local/bin/burp
     - source: salt://burp/burp.sh
