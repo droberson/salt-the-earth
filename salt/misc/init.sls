@@ -4,5 +4,6 @@ include:
   - java-common
   - newsbeuter
   - xclip
+  - vlc
   - zsh
 
