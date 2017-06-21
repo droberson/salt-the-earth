@@ -3,6 +3,7 @@ include:
   - curl
   - html2text
   - nikto
+  - surfraw
   - txt2tags
   - wget
 
