@@ -1,5 +1,6 @@
 include:
   - burp
+  - chrome
   - curl
   - html2text
   - nikto
