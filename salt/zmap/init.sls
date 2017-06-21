@@ -1,0 +1,3 @@
+zmap:
+  pkg.installed
+

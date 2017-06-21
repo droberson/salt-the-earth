@@ -25,4 +25,5 @@ include:
   - wireshark
   - xprobe
   - yersinia
+  - zmap
 
