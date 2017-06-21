@@ -1,0 +1,3 @@
+surfraw:
+  pkg.installed
+
