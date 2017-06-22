@@ -5,6 +5,7 @@ include:
   - linphone
   - newsbeuter
   - xclip
+  - vbindiff
   - vlc
   - zsh
 
