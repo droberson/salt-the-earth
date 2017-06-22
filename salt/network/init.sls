@@ -20,6 +20,7 @@ include:
   - remmina
   - snmp
   - smbclient
+  - sshfs
   - sshuttle
   - thc-ipv6
   - whois
