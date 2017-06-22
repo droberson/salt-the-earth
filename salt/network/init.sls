@@ -1,6 +1,7 @@
 include:
   - arp-scan
   - arping
+  - driftnet
   - dsniff
   - filezilla
   - geoip
