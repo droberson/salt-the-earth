@@ -1,0 +1,3 @@
+puppet-lint:
+  pkg.installed
+

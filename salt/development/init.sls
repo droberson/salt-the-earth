@@ -14,6 +14,7 @@ include:
   - nasm
   - packaging-dev
   - pbuilder
+  - puppet-lint
   - pylint
   - python-paramiko
   - python-pip
