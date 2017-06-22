@@ -2,11 +2,13 @@ include:
   - afl
   - apt-file
   - augeas
+  - bison
   - build-essential
   - bzr-builddeb
   - dput
   - emacs
   - exuberant-ctags
+  - flex
   - gdb
   - git
   - nasm
