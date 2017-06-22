@@ -1,3 +1,0 @@
-python-yara:
-  pkg.installed
-

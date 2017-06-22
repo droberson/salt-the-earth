@@ -19,7 +19,6 @@ include:
   - python-paramiko
   - python-pip
   - python-subprocess32
-  - python-yara
   - shellcheck
   - ubuntu-dev-tools
   - valgrind
