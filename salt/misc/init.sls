@@ -4,8 +4,9 @@ include:
   - java-common
   - linphone
   - newsbeuter
-  - xclip
+  - sqlite3
   - vbindiff
   - vlc
+  - xclip
   - zsh
 
