@@ -5,6 +5,7 @@ base:
     - crypto
     - development
     - forensics
+    - graphics
     - latex
     - misc
     - network
