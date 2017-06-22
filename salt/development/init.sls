@@ -20,6 +20,7 @@ include:
   - python-pip
   - python-subprocess32
   - shellcheck
+  - source-highlight
   - ubuntu-dev-tools
   - valgrind
 
