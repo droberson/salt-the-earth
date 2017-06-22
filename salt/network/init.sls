@@ -2,6 +2,7 @@ include:
   - arp-scan
   - arping
   - dsniff
+  - filezilla
   - geoip
   - hping3
   - hydra
