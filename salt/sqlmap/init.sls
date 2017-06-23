@@ -1,0 +1,3 @@
+sqlmap:
+  pkg.installed
+

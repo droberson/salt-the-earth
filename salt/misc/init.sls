@@ -5,6 +5,7 @@ include:
   - linphone
   - newsbeuter
   - sqlite3
+  - sqlmap
   - vbindiff
   - vlc
   - xclip
