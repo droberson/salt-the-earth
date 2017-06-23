@@ -11,6 +11,7 @@ include:
   - ipcalc
   - masscan
   - minicom
+  - mutt
   - mysql-client
   - netcat
   - nmap
