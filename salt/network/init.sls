@@ -21,6 +21,7 @@ include:
   - quagga
   - remmina
   - snmp
+  - snort
   - smbclient
   - sshfs
   - sshuttle

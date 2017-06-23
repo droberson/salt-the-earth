@@ -1,0 +1,3 @@
+snort:
+  pkg.installed
+
