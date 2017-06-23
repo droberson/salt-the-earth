@@ -1,0 +1,3 @@
+splint:
+  pkg.installed
+
