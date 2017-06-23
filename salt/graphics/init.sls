@@ -1,3 +1,4 @@
 include:
   - gimp
+  - graphviz
 
