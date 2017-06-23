@@ -6,5 +6,6 @@ include:
   - nikto
   - surfraw
   - txt2tags
+  - w3af
   - wget
 
