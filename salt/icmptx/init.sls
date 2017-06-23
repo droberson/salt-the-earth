@@ -1,0 +1,2 @@
+icmptx:
+  pkg.installed

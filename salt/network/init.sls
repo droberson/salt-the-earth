@@ -8,6 +8,7 @@ include:
   - geoip
   - hping3
   - hydra
+  - icmptx
   - iodine
   - ipcalc
   - masscan
