@@ -12,6 +12,7 @@ include:
   - flex
   - gdb
   - git
+  - libnet1-dev
   - nasm
   - packaging-dev
   - pbuilder
