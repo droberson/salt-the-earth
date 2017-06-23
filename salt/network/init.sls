@@ -4,6 +4,7 @@ include:
   - driftnet
   - dsniff
   - filezilla
+  - fwsnort
   - geoip
   - hping3
   - hydra

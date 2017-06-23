@@ -1,0 +1,3 @@
+fwsnort:
+  pkg.installed
+
