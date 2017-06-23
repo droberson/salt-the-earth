@@ -7,6 +7,7 @@ include:
   - fwsnort
   - geoip
   - hping3
+  - httptunnel
   - hydra
   - icmptx
   - iodine
