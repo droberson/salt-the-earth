@@ -1,4 +1,4 @@
 include:
   - gimp
+  - gnuplot
   - graphviz
-
