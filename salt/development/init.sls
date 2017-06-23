@@ -6,6 +6,7 @@ include:
   - build-essential
   - bzr-builddeb
   - dput
+  - doxygen
   - emacs
   - exuberant-ctags
   - flex
