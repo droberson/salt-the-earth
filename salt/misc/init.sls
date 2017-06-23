@@ -1,6 +1,7 @@
 include:
   - antiword
   - bc
+  - htop
   - java-common
   - linphone
   - newsbeuter
