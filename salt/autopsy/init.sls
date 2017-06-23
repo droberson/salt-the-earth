@@ -1,0 +1,3 @@
+autopsy:
+  pkg.installed
+

@@ -1,4 +1,5 @@
 include:
+  - autopsy
   - binwalk
   - volatility
   - foremost
