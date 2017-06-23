@@ -1,0 +1,3 @@
+tidy:
+  pkg.installed
+
