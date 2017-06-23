@@ -1,0 +1,2 @@
+mailutils:
+  pkg.installed

@@ -10,6 +10,7 @@ include:
   - hydra
   - ipcalc
   - masscan
+  - mailutils
   - minicom
   - mutt
   - mysql-client
