@@ -1,0 +1,4 @@
+# pipeviewer
+pv:
+  pkg.installed
+
