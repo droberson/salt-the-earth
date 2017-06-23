@@ -4,5 +4,6 @@
 include:
   - anki
   - libreoffice
+  - xpdf
 {% endif %}
 
