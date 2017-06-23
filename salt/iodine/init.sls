@@ -1,0 +1,2 @@
+iodine:
+  pkg.installed
