@@ -26,6 +26,7 @@ include:
   - smbclient
   - sshfs
   - sshuttle
+  - tcpxtract
   - thc-ipv6
   - whois
   - wireshark
