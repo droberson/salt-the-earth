@@ -3,6 +3,7 @@ include:
   - bc
   - htop
   - java-common
+  - keepassx
   - linphone
   - newsbeuter
   - pv
