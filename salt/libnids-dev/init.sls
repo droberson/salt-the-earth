@@ -1,0 +1,2 @@
+libnids-dev:
+  pkg.installed

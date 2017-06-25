@@ -13,6 +13,7 @@ include:
   - gdb
   - git
   - libnet1-dev
+  - libnids-dev
   - nasm
   - packaging-dev
   - pbuilder
