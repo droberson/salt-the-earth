@@ -1,3 +1,5 @@
+# burp -- Burp Suite web application testing framework
+
 {%- from "vars.jinja" import vars with context %}
 
 {% if vars.usegui %}

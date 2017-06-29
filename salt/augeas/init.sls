@@ -1,3 +1,5 @@
+# augeas -- inspect and modify configuration files
+
 augeas-tools:
   pkg.installed
 
