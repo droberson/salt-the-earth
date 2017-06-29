@@ -1,3 +1,5 @@
+# emacs -- emacs text editor
+
 {%- from "vars.jinja" import vars with context %}
 
 emacs-ppa:

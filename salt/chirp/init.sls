@@ -1,3 +1,5 @@
+# chirp -- program various HT radios
+
 {%- from "vars.jinja" import vars with context %}
 
 {% if vars.usegui == True %}

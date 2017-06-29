@@ -1,3 +1,5 @@
+# geoip -- tools to geolocate IP addresses
+
 geoip-bin:
   pkg.installed
 

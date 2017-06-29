@@ -1,3 +1,5 @@
+# git -- the popular af version control system
+
 git-ppa:
   pkgrepo.managed:
     - humanname: Ubuntu Git Maintainers

@@ -1,4 +1,5 @@
-# GNS3 
+# gns3 -- graphical network simulator
+
 {%- from "vars.jinja" import vars with context %}
 
 gns3-ppa:
