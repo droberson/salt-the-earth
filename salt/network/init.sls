@@ -6,6 +6,7 @@ include:
   - filezilla
   - fwsnort
   - geoip
+  - gns3
   - hping3
   - httptunnel
   - hydra
