@@ -8,6 +8,7 @@ include:
   - linphone
   - newsbeuter
   - pv
+  - sharutils
   - sqlite3
   - sqlmap
   - vbindiff
