@@ -1,0 +1,3 @@
+lftp:
+  pkg.installed
+

@@ -13,6 +13,7 @@ include:
   - icmptx
   - iodine
   - ipcalc
+  - lftp
   - masscan
   - mailutils
   - minicom
