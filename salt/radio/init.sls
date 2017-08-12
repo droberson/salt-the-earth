@@ -9,4 +9,6 @@
 include:
   - chirp
   - minimodem
+  - rtl-sdr
+  - gqrx-sdr
 {% endif %}
