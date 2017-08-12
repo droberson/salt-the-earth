@@ -1,6 +1,6 @@
 # TODO:
-# - rtlsdr
-# - gqrx (includes gnuradio)
+# - rtlsdr repo/ppa
+# - gqrx (includes gnuradio) repo/ppa
 # - hackrf stuff
 
 {%- from "vars.jinja" import vars with context %}

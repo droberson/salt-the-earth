@@ -16,6 +16,7 @@ include:
   - git
   - libnet1-dev
   - libnids-dev
+  - librtlsdr-dev
   - nasm
   - packaging-dev
   - pbuilder

@@ -1,0 +1,3 @@
+librtlsdr-dev:
+  pkg.installed
+
