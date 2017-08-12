@@ -1,6 +1,7 @@
 include:
   - antiword
   - bc
+  - crunch
   - dos2unix
   - htop
   - java-common
