@@ -17,7 +17,7 @@ if [ $? != 0 ]; then
 	exit 1
 fi
 
-# update apt
+# Update apt
 echo "[+] Updating apt"
 apt update
 if [ $? != 0 ]; then
@@ -35,7 +35,11 @@ if [ $? != 0 ]; then
 	exit 1
 fi
 
-# install salt-minion
+# Autoremove stale packages
+echo "[+] Running apt autoremove. "
+apt autoremove --yes
+
+# Install salt-minion
 echo "[+] Installing salt-minion"
 apt install salt-minion --yes
 if [ $? != 0 ]; then
