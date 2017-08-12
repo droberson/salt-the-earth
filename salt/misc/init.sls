@@ -1,6 +1,7 @@
 include:
   - antiword
   - bc
+  - dos2unix
   - htop
   - java-common
   - jq
@@ -15,4 +16,3 @@ include:
   - vlc
   - xclip
   - zsh
-
