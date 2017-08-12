@@ -36,6 +36,7 @@ include:
   - sshfs
   - sshuttle
   - tcpxtract
+  - tftp
   - thc-ipv6
   - whois
   - wireshark
