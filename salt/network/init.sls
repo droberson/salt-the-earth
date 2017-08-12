@@ -20,6 +20,7 @@ include:
   - mutt
   - mysql-client
   - netcat
+  - netdiscover
   - nmap
   - ntpdate
   - onesixtyone

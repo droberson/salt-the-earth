@@ -1,0 +1,2 @@
+netdiscover:
+  pkg.installed
