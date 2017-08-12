@@ -1,0 +1,3 @@
+gqrx-sdr:
+  pkg.installed
+

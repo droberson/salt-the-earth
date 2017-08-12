@@ -1,0 +1,3 @@
+rtl-sdr:
+  pkg.installed
+
