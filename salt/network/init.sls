@@ -28,6 +28,7 @@ include:
   - p0f
   - proxychains
   - quagga
+  - rdesktop
   - remmina
   - snmp
   - snort
