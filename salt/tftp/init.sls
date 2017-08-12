@@ -2,4 +2,7 @@ tftp:
   pkg.installed
 
 tftpd-hpa:
-  pkg.installed
+  pkg.installed:
+    - name: tftpd-hpa
+  service.disabled:
+    - name: tftpd-hpa
