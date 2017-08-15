@@ -30,6 +30,7 @@ include:
   - quagga
   - rdesktop
   - remmina
+  - sendemail
   - snmp
   - snort
   - smbclient

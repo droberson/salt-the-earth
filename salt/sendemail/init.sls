@@ -1,0 +1,3 @@
+sendemail:
+  pkg.installed
+
