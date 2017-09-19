@@ -1,0 +1,3 @@
+ttyrec:
+  pkg.installed
+

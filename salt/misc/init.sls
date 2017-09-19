@@ -13,6 +13,7 @@ include:
   - sharutils
   - sqlite3
   - sqlmap
+  - ttyrec
   - vbindiff
   - vlc
   - xclip
